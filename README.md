@@ -15,10 +15,11 @@ to apply strong problem-solving skills and collaborative experience in a challen
 # Featured Projects
 
 ## Artificial intelligence
-- github.com/bikowskialexander/Pinochle
+- [LLM plays Pinochle](github.com/bikowskialexander/Pinochle)
+- [Soft Actor Critic](https://github.com/bikowskialexander/DeepLearning)
 
 ## Data Visualization 
-- Coming Soon
+- [Soft Actor Critic Graphing](https://github.com/bikowskialexander/DeepLearning)
 
 # Email
 bikowskialexander@gmail.com 
