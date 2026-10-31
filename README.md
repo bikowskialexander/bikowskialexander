@@ -4,6 +4,10 @@ Motivated Advanced Computing graduate with a strong foundation in software devel
 an ability to design, implement, and optimize software solutions applications, from autonomous systems to user interfaces. Eager
 to apply strong problem-solving skills and collaborative experience in a challenging Computer Science, Software Engineering, or Artificial intelligence role.
 
+# Resume
+[ResumeAlexBikowski.pdf](https://github.com/user-attachments/files/34209246/ResumeAlexBikowski.pdf)
+
+
 # Technical Skills
 - Programming Languages: Python, C/C++, javascript, java, rust
 - Frameworks & Libraries: NumPy, OpenCV, PyTorch, TensorFlow, HTML/CSS, Matplotlib, SQL,
